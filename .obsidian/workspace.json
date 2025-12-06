@@ -204,18 +204,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "github-sync:Sync with Remote": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "audio-recorder:Começar/parar a gravação de áudio": false,
-      "omnisearch:Omnisearch": false,
       "bases:Criar nova base": false,
       "markdown-importer:Abrir importador Markdown": false,
+      "omnisearch:Omnisearch": false,
       "obsidian-importer:Open Importer": false
     }
   },
