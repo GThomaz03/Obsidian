@@ -1,5 +1,7 @@
 
 
+
+
 - Geolocalização (eventos próximos)
 - Visão do Organizador
 	- Resumo do evento
