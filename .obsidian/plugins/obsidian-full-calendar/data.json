@@ -1,0 +1,21 @@
+{
+  "calendarSources": [
+    {
+      "type": "dailynote",
+      "color": "#5a2069",
+      "heading": "Tarefas"
+    },
+    {
+      "type": "local",
+      "color": "#38aa18",
+      "directory": "Calendario"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 0,
+  "initialView": {
+    "desktop": "dayGridMonth",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": true
+}
