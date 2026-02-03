@@ -1,4 +1,4 @@
-
+#unnu 
 
 
 
@@ -78,11 +78,17 @@
 	- Desconto na contratação
 
 
-
+- Personalizar o Evento (cara do organizador/ marca)
+- Emissão de nota fiscal automática
+	- com a Notas (sistema de emissão de NF)
 
 
 
 ## Visão geral
+
+### Eventos
+- Fornecer eventos online
+	- Validação do usuario seja feito pelo app ao acessar o link do evento (teams, google meet)
 
 ### Acessos
 - KAcess para validação do ticket do evento
@@ -119,3 +125,14 @@
 		- Se não bater o valor total ele paga a diferença
 		- Se bater nada é cobrado
 	- Cobrar do organizador apenas uma porcentagem do ticket 
+
+
+
+
+### Usuário
+- Troca/venda de ingresso 
+	- Caso o usuario não vá mais no evento ele pode dar/vender esse ingresso para outra pessoa
+
+### Organizador
+- Resumo do evento com IA ser pago
+	- Dashboard é gratuito sempre

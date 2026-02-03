@@ -1,4 +1,4 @@
-#Ideia #EloTickets
+#Ideia #unnu
 
 Aplicativo como o Eventim onde palestrantes podem anunciar suas palestras/eventos e o aplicativo fará o gerenciamento dos ingressos cobrando uma taxa a mais para lucro.
 

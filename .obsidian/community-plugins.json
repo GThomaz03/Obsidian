@@ -1,5 +1,4 @@
 [
-  "obsidian-tasks-plugin",
   "tag-wrangler",
   "omnisearch",
   "obsidian-importer",
@@ -12,8 +11,8 @@
   "code-styler",
   "calendar",
   "ninja-cursor",
-  "cmdr",
   "canvas-mindmap",
   "obsidian-excalidraw-plugin",
-  "github-sync"
+  "github-sync",
+  "theme-picker"
 ]

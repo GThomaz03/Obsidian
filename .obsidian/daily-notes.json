@@ -1,5 +1,4 @@
 {
   "folder": "Diário de atividades",
-  "template": "dailyTemplate",
-  "autorun": true
+  "template": "dailyTemplate"
 }
